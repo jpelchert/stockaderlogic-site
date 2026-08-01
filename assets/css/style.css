@@ -422,3 +422,45 @@ footer {
     margin: 12px 0 0;
   }
 }
+
+/* Privacy policy */
+
+.policy-page {
+  max-width: 900px;
+}
+
+.policy-header {
+  max-width: 760px;
+  padding: 36px 0 52px;
+  border-bottom: 1px solid var(--border);
+}
+
+.policy-header h1 {
+  margin-bottom: 20px;
+}
+
+.policy-date {
+  margin-top: 24px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.policy-content {
+  max-width: 760px;
+  padding: 36px 0 64px;
+}
+
+.policy-content h2 {
+  margin: 42px 0 10px;
+  font-size: 1.45rem;
+}
+
+.policy-content p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.04rem;
+}
+
+.policy-content a {
+  font-weight: 600;
+}
